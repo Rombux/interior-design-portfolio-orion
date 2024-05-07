@@ -1,5 +1,5 @@
 import Image from "next/image";
-import logo from "../public/Logo.jpg";
+import logo from "../public/Logo_orion.png";
 import Navigation from "./Navigation";
 
 export default function Header() {
