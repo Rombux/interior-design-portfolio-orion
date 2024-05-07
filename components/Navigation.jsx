@@ -18,7 +18,7 @@ export default function Navigation() {
 
     return (
         <>
-            <button className="block lg:hidden" onClick={() => setOpen(!isOpen)}>
+            <button className="block lg:hidden z-50" onClick={() => setOpen(!isOpen)}>
                 <svg
                     className={`fill-current h-3 w-3 ${isOpen ? "hidden" : "block"}`}
                     viewBox="0 0 20 20"

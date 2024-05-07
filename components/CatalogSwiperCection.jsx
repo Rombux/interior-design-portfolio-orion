@@ -26,7 +26,7 @@ export default function CatalogSwiperSection() {
                             <p>
                                 We create distinctive and unique designs that are inspired by the latest trends in interior design and fashion.
                             </p>
-                            <a href="" className="inline-flex items-center pt-4 text-lg font-bold text-orion-orange underline">View Gallery <TbArrowUpRight /> </a>
+                            <a href="/gallery" className="inline-flex items-center pt-4 text-lg font-bold text-orion-orange underline">View Gallery <TbArrowUpRight /> </a>
                         </div>
                     </div>
                 </div>
