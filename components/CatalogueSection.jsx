@@ -53,7 +53,7 @@ export default function CatalogueSection() {
 
                     <div className="inset-0 flex-col items-center justify-end hidden gap-32 pb-16 text-xl transition duration-300 ease-in-out border-b-2 md:flex md:absolute group-hover:translate-y-full md:border-b-0 bg-zinc-100">
                         <p className="tracking-wider -rotate-90 ">{item.catagory} </p>
-                        <span className="">
+                        <span className="text-orion-orange">
                             {item.id}
                         </span>
 
