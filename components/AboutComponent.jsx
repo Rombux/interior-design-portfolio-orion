@@ -4,8 +4,8 @@ export default function AboutComponent() {
     return (
         <div className="container py-16">
             <div className="flex items-center justify-between pb-4">
-                <a className="py-4 text-3xl font-extrabold leading-tight text-gray-800 lg:text-5xl" href="">An aesthetic room is <br />given harmony</a>
-                <p className="tracking-wider text-gray-400">WORLD AWARD</p>
+                <a className="py-4 text-3xl font-extrabold leading-tight text-orion-orange lg:text-5xl" href="">An aesthetic room is <br />given harmony</a>
+                <p className="hidden tracking-wider text-gray-400">WORLD AWARD</p>
             </div>
             <div className="grid lg:grid-cols-2 place-items-center ">
                 <div>
