@@ -10,29 +10,29 @@ export default function Gallery() {
 
             <div class="flex flex-col gap-4">
                 <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/badroom.jpg" alt="" />
+                    <img class="h-auto max-w-full rounded-lg" src="/image/1.jpg" alt="" />
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/gallery2.jpg" alt="" />
+                    <img class="h-auto max-w-full rounded-lg" src="/image/2.jpg" alt="" />
                 </div>
                 <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/gallery.jpg" alt="" />
-                </div>
-            </div>
-            <div class="flex flex-col gap-4">
-                <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/swiper1.jpg" alt="" />
-                </div>
-                <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/gallery11.jpg" alt="" />
-                </div>
-                <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/living.jpg" alt="" />
+                    <img class="h-auto max-w-full rounded-lg" src="/image/3.jpg" alt="" />
                 </div>
             </div>
             <div class="flex flex-col gap-4">
                 <div>
-                    <img class="h-auto max-w-full rounded-lg" src="/image/gallery14.jpg" alt="" />
+                    <img class="h-auto max-w-full rounded-lg" src="/image/4.jpg" alt="" />
+                </div>
+                <div>
+                    <img class="h-auto max-w-full rounded-lg" src="/image/5.jpg" alt="" />
+                </div>
+                <div>
+                    <img class="h-auto max-w-full rounded-lg" src="/image/6.jpg" alt="" />
+                </div>
+            </div>
+            <div class="flex flex-col gap-4">
+                <div>
+                    <img class="h-auto max-w-full rounded-lg" src="/image/7.jpg" alt="" />
                 </div>
                 <div>
                     <img class="h-auto max-w-full rounded-lg" src="/image/gallery15.jpg" alt="" />
